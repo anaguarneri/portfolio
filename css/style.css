@@ -1,0 +1,121 @@
+li{list-style:none ;}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    background: #938DF8;
+}
+nav li{
+    list-style: none;
+    text-decoration: none;  
+  }    
+  nav {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+}
+main{background: #EDEAEA;}
+.title{
+    color: #938DF8;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 140%;
+}
+.subtitle{
+    color: #d7d2d2;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+}
+.intro{
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    display: flex;
+}
+.formacao{
+    background: #E5E5E5;
+}
+.title2{
+    color: #49BFB3;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}
+.f1{
+    color:#828282;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}
+section h4 a{
+    color:#2F80ED
+}
+.texto1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color:black;
+}
+.f2{
+    color:#828282;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.title3{
+    color: #49BFB3;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}
+.proj{color: #828282;
+
+}
+.texto2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color:black;
+}
+.desc{
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+}
+footer{
+    background: #5A53D8;
+}
+footer a{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+.portfolio{background: #EDEAEA;}
