@@ -21,7 +21,9 @@ nav li{
     font-size: 18px;
     line-height: 25px;
 }
-main{background: #EDEAEA;}
+main{
+    background: #EDEAEA;
+}
 .title{
     color: #938DF8;
     font-style: normal;
